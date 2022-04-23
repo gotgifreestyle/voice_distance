@@ -11,6 +11,7 @@ fx_version 'cerulean'
 
 game 'gta5'
 author 'cyw_core'
+version '1.0.0'
 description 'for pma-voice only'
 
 shared_script '@pma-voice/shared.lua'
