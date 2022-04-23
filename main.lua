@@ -4,7 +4,7 @@ color[2] = {r=75, g=203, b=255}
 color[3] = {r=255, g=75, b=149}
 alpha = 150
 delay = 0
-delayTime = 200
+delayTime = 500
 seccess = nil
 AddEventHandler('pma-voice:setTalkingMode', function(mode)
     seccess = true
